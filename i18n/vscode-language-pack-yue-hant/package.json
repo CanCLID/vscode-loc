@@ -1,7 +1,7 @@
 {
-	"name": "vscode-language-pack-zh-hant",
-	"displayName": "Chinese (Traditional) Language Pack for Visual Studio Code",
-	"description": "Language pack extension for Chinese (Traditional)",
+	"name": "vscode-language-pack-yue-hant",
+	"displayName": "Cantonese Language Pack for Visual Studio Code",
+	"description": "Language pack extension for Cantonese",
 	"version": "1.53.2",
 	"publisher": "MS-CEINTL",
 	"repository": {
@@ -19,7 +19,7 @@
 	"contributes": {
 		"localizations": [
 			{
-				"languageId": "yue",
+				"languageId": "yue-hant",
 				"languageName": "Cantonese",
 				"localizedLanguageName": "粵語",
 				"translations": [
@@ -576,6 +576,6 @@
 		]
 	},
 	"scripts": {
-		"update": "cd ../vscode && npm run update-localization-extension zh-hant"
+		"update": "cd ../vscode && npm run update-localization-extension yue-hant"
 	}
 }

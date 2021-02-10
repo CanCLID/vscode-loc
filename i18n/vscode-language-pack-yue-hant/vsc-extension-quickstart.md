@@ -5,9 +5,9 @@
 ```json
         "contributes": {
             "localization": [{
-                "languageId": "zh-tw",
-                "languageName": "Chinese Traditional",
-                "localizedLanguageName": "中文(繁體)"
+                "languageId": "yue-hant",
+                "languageName": "Cantonese",
+                "localizedLanguageName": "粵語"
             }]
         }
 ```
