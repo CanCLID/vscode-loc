@@ -246,7 +246,7 @@
 			"suggest.shareSuggestSelections": "控制記錄的建議選取項目是否在多個工作區和視窗間共用 (需要 `#editor.suggestSelection#`)。",
 			"suggest.snippetsPreventQuickSuggestions": "控制正在使用的程式碼片段是否會避免快速建議。",
 			"suggest.showIcons": "控制要在建議中顯示或隱藏圖示。",
-			"showStatusBar": "控制建議小工具底下的狀態列可見度。",
+			"suggest.showStatusBar": "控制建議小工具底下的狀態列可見度。",
 			"suggest.showInlineDetails": "控制建議詳細資料是以內嵌於標籤的方式顯示，還是只在詳細資料小工具中顯示",
 			"suggest.maxVisibleSuggestions.dep": "此設定已淘汰。建議小工具現可調整大小。",
 			"deprecated": "此設定已淘汰，請改用 'editor.suggest.showKeywords' 或 'editor.suggest.showSnippets' 等單獨設定。",
